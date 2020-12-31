@@ -9,7 +9,7 @@ A Data Science bootcamp that includes 550+ hours of hands-on curriculum, with 1:
 **This repo contains:**
 - All capstone Projects
   - [Capstone Project 1 (Ski Resort Price Analysis)](https://github.com/jra333/SpringboardClass/tree/main/Capstone%20Project%201%20(Guided))
-  - [Capstone Project 2 (BTC Price Prediction](https://github.com/jra333/SpringboardClass/tree/main/Capstone%20Project%202)
+  - [Capstone Project 2 (BTC Price Prediction)](https://github.com/jra333/SpringboardClass/tree/main/Capstone%20Project%202)
   - [Capstone Project 3](https://github.com/jra333/SpringboardClass/tree/main/Capstone%20Project%203)
   
 - Mini Projects & Case Studies
